@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Duc's GitHub stats](https://github-readme-stats.vercel.app/api?username=duchstf)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 - 🔭 I’m currently working with the Light Dark Matter Experiment (LDMX) group at Fermilab.
 - 🌱 I’m currently learning about particle physics, computing systems, statistics.
