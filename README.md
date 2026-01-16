@@ -1,11 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-- 🔭 I’m currently working with the Light Dark Matter Experiment (LDMX) group at Fermilab.
-- 🌱 I’m currently learning about particle physics, computing systems, statistics.
-- 🕵️‍ I’m looking for Physics PhD positions starting Fall 2021. 
-- 📫 How to reach me: hoadm-21 at rhodes dot edu | dhoang at fnal dot gov
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm from Vietnam!
-- 📜 My CV is hosted [here](https://www.overleaf.com/read/kkcdrfjhyhpd)
--->
+I’m a PhD candidate in High-Energy Physics working on real-time machine learning systems for nanosecond-scale decision making. My research focuses on FPGA-optimized neural architectures, hardware-native online learning, and large-scale statistical analyses for precision Higgs measurements.
+Recently, I’ve been looking at extending these techniques toward quantum–classical integration for scalable quantum technologies.
+
+Beyond research, having grown up in Central Vietnam, I’m deeply committed to expanding access to technology education in underserved communities. I currently lead SEAS — Summer in Engineering and Applied Sciences, an initiative aimed at improving STEM education access in Central Vietnam:
+👉 https://seas-cvn.com/
+
+### 📫 Collaboration & Contact
+
+Research collaborations: dhoang [at] mit [dot] edu
+
+Education & outreach initiatives in underserved regions: feel free to reach out
+
+### 📄 Recruiters
+
+My CV is available upon request via email.
