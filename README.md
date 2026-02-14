@@ -11,7 +11,3 @@ Beyond research, having grown up in Central Vietnam, I’m deeply committed to e
 Research collaborations: dhoang [at] mit [dot] edu
 
 Education & outreach initiatives in underserved regions: feel free to reach out
-
-### 📄 Recruiters
-
-My CV is available upon request via email.
