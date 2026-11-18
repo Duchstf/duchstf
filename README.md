@@ -4,6 +4,6 @@ I’m currently at **Xcelsa Labs**, working on formal verification, compilers, a
 
 Having grown up in Central Vietnam, I’m committed to expanding access to STEM education. I founded and co-led [**SEAS — Summer in Engineering and Applied Sciences**](https://seas-cvn.com/) to support this mission in my home region.
 
-### 📫 Let’s connect
+### 📫 Let’s connect!
 
 I always enjoy meeting curious people and hearing about the problems they’re thinking about. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/duc-hoang-786253135/), I’d love to chat!
